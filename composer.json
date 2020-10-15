@@ -1,6 +1,6 @@
 {
     "name": "brexis/laravel-workflow",
-    "description": "Integerate Symfony Workflow component into Laravel.",
+    "description": "Integrate Symfony Workflow component into Laravel.",
     "keywords": ["workflow", "symfony", "laravel", "laravel5", "laravel6"],
     "license": "MIT",
     "require": {
